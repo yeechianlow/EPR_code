@@ -16,4 +16,4 @@ This repository contains some code I used during my Ph.D., including:
 - Calculate maximum equivalent potential temperature (theta_e) in the 700-900 hPa layer:
   - max_700-900_thetae.py
  
-**Note: ERA5 data is used for all scripts. Required data files containing which variables at which spatial and temporal resolution are listed at the beginning of each script.**
+**Note: ERA5 data is used for all scripts. Required data files containing which variables at which spatial and temporal resolution are listed at the beginning of each script.** The scripts also assume that the NumPy, Xarray, MetPy, Matplotlib, and Cartopy packages are installed.
